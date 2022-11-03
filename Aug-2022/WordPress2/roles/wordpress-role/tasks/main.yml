@@ -18,3 +18,7 @@
     owner: apache
     group: apache
 
+- name: Copy wp-config.php file
+  template:
+    src: wp-config.php.j2
+    dest: /var/www/html/wp-config.php

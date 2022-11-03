@@ -1,0 +1,8 @@
+galaxy_info:
+  author: Islam Kambarov
+  description: A simple role which install WordPress
+  license: MIT
+  min_ansible_version: 2.9
+  galaxy_tags:
+    - wordpress
+dependencies: []

@@ -1,2 +1,5 @@
 ---
-# defaults file for wordpress-role
+db_name: "wordpress"
+db_user: "someuser"
+db_password: "password"
+db_host: "localhost"
